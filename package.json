@@ -1,0 +1,21 @@
+{
+    "name": "jamsolut",
+    "version": "0.0.1",
+    "description": "Turns relative package lookups into absolute ones. Depends on baseURL and packageDir being correctly configured.",
+    "jam": {
+        "dependencies": {},
+    },
+    "keywords": [ "package", "loading", "absolute", "path"],
+    "main": "index.js",
+    "include": [
+        "index.js",
+        "README.md"
+    ],
+    "maintainers": [
+        {
+            "email": "wombleton@gmail.com",
+            "name": "Rowan Crawford"
+        }
+    ],
+    "github": "https://github.com/wombleton/jamsolut"
+}
